@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Hello brother
+=======
+Hello mam
+ sir
+>>>>>>> Stashed changes
 
